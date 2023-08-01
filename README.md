@@ -5,3 +5,9 @@
 release已自带插件包fungus以及动画管理，可直接调用
 欢迎大家参与到psvita的gal的开发过程中来，哈哈！
 
+截图：
+![image](https://github.com/qianmozhongheng/tsukihime-unity-gal/blob/main/1.PNG)
+
+![image](https://github.com/qianmozhongheng/tsukihime-unity-gal/blob/main/2.PNG)
+
+![image](https://github.com/qianmozhongheng/tsukihime-unity-gal/blob/main/3.PNG)
